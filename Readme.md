@@ -58,6 +58,8 @@ A Python-based regression analysis project on the California Housing dataset (fr
 
 ## REGRESSION TASKS
 
+- At the end of all regression technique identifies the best-performing model and worst-performing model
+
 1 Linear Regression.
 
 * Fit a linear model to predict median house price
@@ -98,8 +100,6 @@ A Python-based regression analysis project on the California Housing dataset (fr
 * Evaluate using MAE, MSE, RMSE, R²
 
 * Brief Explanation
-
-- Identifies the best-performing model and worst-performing model
 
 ## Insights
 
